@@ -21,6 +21,9 @@
     
 ---
 
+<img src="appendix/gui_example.png" width="1000" alt="alt text">
+
+---
 ## 🚀 How It Works
 
 1. **Ask Your Question**: Type a natural language query into the input box.
@@ -53,4 +56,3 @@
 
 2. Access the GUI in your browser at http://localhost:7860 or Running on local URL:  http://XXX.X.X.X:7860 or public URL as provided when running.
 
-<img src="appendix/gui_example.png" width="800" alt="alt text">
