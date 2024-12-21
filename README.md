@@ -1,6 +1,8 @@
+<img src="appendix/icon.jpeg" width="100" alt="alt text">
+
 # 🩺 Doctor Search Assistant (Hebrew Version)
 
-**Doctor Search Assistant** is a user-friendly, GUI-based tool designed to help users find relevant doctors based on their specific questions or queries.
+**Doctor Search Assistant** is a user-friendly, GUI-based prototype tool designed to help users find relevant doctors based on their specific questions or queries.
 
 ---
 
@@ -24,7 +26,8 @@
 1. **Ask Your Question**: Type a natural language query into the input box.
 2. **View Results**: See a clear and comprehensive table of doctors matching your search criteria, complete with all the relevant details.
 3. **Interactive Experience**: Adjust the number of results, try different queries, and quickly find what you need.
-
+4. **Default Data Source**: The tool currently uses an Excel spreadsheet (`ServiceBook.xlsx`) as its data source. This spreadsheet includes essential information about doctors, which is preprocessed into a searchable format.
+     
 ---
 
 ## ⚙️ Technical Details
