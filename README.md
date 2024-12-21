@@ -6,8 +6,8 @@
 
 ## ✨ Key Highlights
 
-- **Interactive GUI**: A sleek graphical interface built with Gradio that simplifies the search process. Users can type their questions naturally, such as "Find an eye doctor in New York."
-- **Search by Query**: The system interprets your question, processes it using advanced AI models, and returns personalized results.
+- **Interactive GUI**: A graphical interface built with Gradio that simplifies the search process. Users can type their questions.
+- **Search by Query**: The system interprets the question, processes it using advanced AI models, and returns the results in tabular format.
 - **Rich Doctor Profiles**: Each result includes detailed information like the doctor's name, specialization, address, and contact information.
 - **Efficient Retrieval**: Powered by FAISS indexing and multilingual embedding models, the tool ensures fast and accurate matches to your query.
 
