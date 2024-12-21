@@ -47,7 +47,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/reab5555/doctor-search-assistant.git
+   git clone https://github.com/reab5555/Doctor-Search-Assistant.git
 
    pip install -r requirements.txt
 
