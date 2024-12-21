@@ -53,4 +53,4 @@
 
 2. Access the GUI in your browser at http://localhost:7860 or Running on local URL:  http://XXX.X.X.X:7860 or public URL as provided when running.
 
-<img src="appendix/gui_example.png" width="500" alt="alt text">
+<img src="appendix/gui_example.png" width="800" alt="alt text">
