@@ -1,4 +1,4 @@
-<img src="appendix/icon.jpeg" width="100" alt="alt text">
+<img src="appendix/icon.png" width="100" alt="alt text">
 
 # 🩺 Doctor Search Assistant (Hebrew Version)
 
