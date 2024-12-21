@@ -21,16 +21,16 @@
 
 ## 🚀 How It Works
 
-1. **Ask Your Question**: Type a natural language query into the input box (e.g., "Are there neurologists in San Francisco?").
+1. **Ask Your Question**: Type a natural language query into the input box.
 2. **View Results**: See a clear and comprehensive table of doctors matching your search criteria, complete with all the relevant details.
 3. **Interactive Experience**: Adjust the number of results, try different queries, and quickly find what you need.
 
 ---
 
-## ⚙️ Technologies Used
+## ⚙️ Technical Details
 
 - **Gradio**: For building the intuitive GUI interface.
-- **Transformers (Hugging Face)**: For embedding generation with multilingual support.
+- **Transformers (Hugging Face)**: multilingual-e5-large model for embedding generation with multilingual support.
 - **FAISS (Facebook AI)**: For efficient indexing and similarity searches.
 - **Pandas**: For handling and displaying structured data.
 - **PyTorch**: For running AI models on CUDA-enabled devices.
@@ -41,7 +41,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/doctor-search-assistant.git
+   git clone https://github.com/reab5555/doctor-search-assistant.git
 
    pip install -r requirements.txt
 
