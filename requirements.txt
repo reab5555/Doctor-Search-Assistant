@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+transformers
+faiss-cpu
+gradio
+tqdm
+openpyxl
+pathlib
+logging
