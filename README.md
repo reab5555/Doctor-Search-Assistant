@@ -1,6 +1,6 @@
-# 🩺 Doctor Search Assistant
+# 🩺 Doctor Search Assistant (Hebrew Version)
 
-**Doctor Search Assistant** is a user-friendly, GUI-based tool designed to help users find relevant doctors based on their specific questions or queries. Whether you're searching for a cardiologist in your city or a pediatrician specializing in a niche area, this tool makes it quick and easy.
+**Doctor Search Assistant** is a user-friendly, GUI-based tool designed to help users find relevant doctors based on their specific questions or queries.
 
 ---
 
